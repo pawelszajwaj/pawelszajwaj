@@ -1,6 +1,6 @@
 Hello,
 
-I'm Paweł Szajwaj and the Sun makes me sneeze :(
+I'm Paweł Szajwaj and the sun makes me sneeze :(
 this site does not work ->  http://student.agh.edu.pl/~szajwaj/amogus/
 
 <!---
