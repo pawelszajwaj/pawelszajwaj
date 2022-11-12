@@ -1,6 +1,6 @@
 Hello,
 
-I'm Paweł Szajwaj and the sun makes me sneeze :(
+I'm Paweł Szajwaj and the Sun makes me sneeze :(
 
 <!---
 pawelszajwaj/pawelszajwaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
