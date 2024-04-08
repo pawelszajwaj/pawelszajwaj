@@ -1,7 +1,7 @@
 Hello,
 
 I'm Paweł Szajwaj and the sun makes me sneeze :(
-this site does not work ->  http://student.agh.edu.pl/~szajwaj/amogus/
+Amogus(https://paftmaxfunny.itch.io/amongus2)
 
 <!---
 pawelszajwaj/pawelszajwaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
